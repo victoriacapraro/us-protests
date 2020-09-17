@@ -1,0 +1,15 @@
+body {
+    font-family: "Georgia", serif;
+}
+
+figcaption {
+    color: gray;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+h6 {
+    color: gray;
+}
